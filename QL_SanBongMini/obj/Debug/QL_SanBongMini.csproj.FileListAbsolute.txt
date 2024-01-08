@@ -1,0 +1,91 @@
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe.config
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\bin\Debug\QL_SanBongMini.pdb
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.AssemblyReference.cache
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_bill.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DangNhap.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DatSan.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_KhachHang.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_ThanhToan.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.Mainform.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.Properties.Resources.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.GenerateResource.cache
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.exe
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.pdb
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_Baocao.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_TrangThaiSan.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe.config
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.pdb
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.AssemblyReference.cache
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_Baocao.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_bill.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DangNhap.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DatSan.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_KhachHang.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_ThanhToan.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_TrangThaiSan.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.Mainform.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.Properties.Resources.resources
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.GenerateResource.cache
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.exe
+C:\Users\Bin\Downloads\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.pdb
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe.config
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.pdb
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.AssemblyReference.cache
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_Baocao.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_bill.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DangNhap.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DatSan.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_KhachHang.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_ThanhToan.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_TrangThaiSan.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.Mainform.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.Properties.Resources.resources
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.GenerateResource.cache
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.CoreCompileInputs.cache
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.exe
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.pdb
+F:\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_Report.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe.config
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.exe
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\QL_SanBongMini.pdb
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\bin\Debug\stdole.dll
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.AssemblyReference.cache
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_Baocao.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_bill.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DangNhap.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_DatSan.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_KhachHang.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_Report.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_ThanhToan.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_TrangThaiSan.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.Mainform.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.Properties.Resources.resources
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.GenerateResource.cache
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.CopyComplete
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.exe
+C:\Users\lu dinh nguyen\Documents\Zalo Received Files\QL_SanBongMini (1)\QL_SanBongMini\QL_SanBongMini (3)\QL_SanBongMini\obj\Debug\QL_SanBongMini.pdb
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\bin\Debug\stdole.dll
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.frm_Report.resources
+C:\Users\Kiêt\OneDrive\Tài liệu\code\QL_SanBongMini\obj\Debug\QL_SanBongMini.csproj.CopyComplete
